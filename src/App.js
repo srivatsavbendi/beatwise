@@ -148,7 +148,7 @@ function App() {
         <h2 className="text-white">beatwise</h2>
       </div>
       <Row className="justify-content-center mt-5">
-        <Col xs={10} md={8} lg={6}>
+        <Col xs={10} md={8} lg={6} className="col-12">
           <Card className="border-0 rounded-3" style={styles}>
             <Card.Body className="px-4 py-1 mt-3">
               <div className="row">
