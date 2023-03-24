@@ -96,55 +96,28 @@ function App() {
 
 
 
-  const [showStreakPopup, setShowStreakPopup] = useState(false);
-  const [streakCounter, setStreakCounter] = useState(0);
-  
+  const [streakCounter, setStreakCounter] = useState(1);
+
   useEffect(() => {
-    const lastLoginDate = localStorage.getItem('lastLoginDate');
-    const today = new Date();
-    if (lastLoginDate) {
-      // First time user, set streak to 1
+    const lastVisit = localStorage.getItem('lastVisit');
+    const today = new Date().toISOString().slice(0, 10);
+
+    if (!lastVisit) {
+      localStorage.setItem('lastVisit', today);
       setStreakCounter(1);
-      setShowStreakPopup(true);
+    } else if (lastVisit === today) {
+      // do nothing, streak remains the same
+    } else if (new Date(lastVisit).getDate() < new Date(today).getDate() - 1) {
+      console.org("hello")
+      localStorage.setItem('lastVisit', today);
+      setStreakCounter(1);
     } else {
-      const lastLogin = new Date(lastLoginDate);
-      if (
-        lastLogin.getDate() !== today.getDate() ||
-        lastLogin.getMonth() !== today.getMonth() ||
-        lastLogin.getFullYear() !== today.getFullYear()
-      ) {
-        // User hasn't logged in today, so we need to reset the streak counter
-        setStreakCounter(0);
-      }
+      localStorage.setItem('lastVisit', today);
+      setStreakCounter(prevCounter => prevCounter + 1);
     }
-  
-    // Update the last login date
-    localStorage.setItem('lastLoginDate', today.toString());
   }, []);
-  
-  useEffect(() => {
-    if (streakCounter > 0) {
-      setShowStreakPopup(true);
-      setTimeout(() => setShowStreakPopup(false), 3000); // Close popup after 3 seconds
-    }
-  }, [streakCounter]);
-  
-  const handleLogin = () => {
-    if (streakCounter === 0) {
-      // User is logging in after a missed day, set streak to 1
-      setStreakCounter(1);
-      setShowStreakPopup(true);
-    } else {
-  
-      setStreakCounter(streakCounter + 1);
-    }
-  };
 
 
-  /* <div className="daily-streak-popup-container">
-        {showStreakPopup && <div className="fixed-top mx-auto fixed-center text-primary p-5 shadow bg-white rounded-3 text-center col-6" style={{marginTop: "20vh"}}><h3>{streakCounter} Day Streak</h3><h6 className="text-black">Keep it up!</h6></div>}
-      </div> */
-    
   return (
     <Container fluid style={styles}>
       
@@ -192,10 +165,10 @@ function App() {
               </Card>
               <Card className="border-0 rounded-3 shadow mb-3" style={shadows}>
                 <Card.Body className="py-4 row justify-content-center">
-                <h5 className="mb-0">Listen</h5>
-                <p style={paragraph} className="mt-0">On Your Favorite Platform</p>
-                <button className="col-3 border-0 mx-3" onClick={openSpotifyApp} style={{backgroundColor: 'transparent'}}><img className="w-100 h-100" src="https://www.freepnglogos.com/uploads/spotify-logo-png/file-spotify-logo-png-4.png"></img></button>
-                <button className="col-3 border-0 mx-3" onClick={openYouTubeApp} style={{backgroundColor: 'transparent'}}><img className="w-100 h-90" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/1280px-YouTube_full-color_icon_%282017%29.svg.png"></img></button>
+                  <h5 className="mb-0">Listen</h5>
+                  <p style={paragraph} className="mt-0">On Your Favorite Platform</p>
+                  <button className="col-3 border-0 mx-3" onClick={openSpotifyApp} style={{backgroundColor: 'transparent'}}><img className="w-100 h-100" src="https://www.freepnglogos.com/uploads/spotify-logo-png/file-spotify-logo-png-4.png"></img></button>
+                  <button className="col-3 border-0 mx-3" onClick={openYouTubeApp} style={{backgroundColor: 'transparent'}}><img className="w-100 h-90" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/1280px-YouTube_full-color_icon_%282017%29.svg.png"></img></button>
                 </Card.Body>
               </Card>
             </Card.Body>
