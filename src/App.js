@@ -136,34 +136,36 @@ function App() {
       setStreakCounter(streakCounter + 1);
     }
   };
-    
 
+
+  /* <div className="daily-streak-popup-container">
+        {showStreakPopup && <div className="fixed-top mx-auto fixed-center text-primary p-5 shadow bg-white rounded-3 text-center col-6" style={{marginTop: "20vh"}}><h3>{streakCounter} Day Streak</h3><h6 className="text-black">Keep it up!</h6></div>}
+      </div> */
+    
   return (
     <Container fluid style={styles}>
-      <div className="daily-streak-popup-container ">
-        {showStreakPopup && <div className="fixed-top text-primary p-5 shadow bg-white rounded-3 text-center" style={{margin: "20vh"}}><h3>{streakCounter} Day Streak</h3><h6 className="text-black">Keep it up!</h6></div>}
-      </div>
-
+      
       <div className="border-lg d-flex pt-3 px-3 bg-dark fixed-top">
-        <h2 className="text-white">beatwise</h2>
+        <h2 className="text-white" style={{fontFamily: "Helvetica"}}>beatwise</h2>
       </div>
       <Row className="justify-content-center mt-5">
         <Col xs={10} md={8} lg={6} className="col-12">
           <Card className="border-0 rounded-3" style={styles}>
             <Card.Body className="px-4 py-1 mt-3">
               <div className="row">
-                <h3 className="col-9 mt-3 mb-2">Today's Beat</h3>
-                <button className="col-2 rounded-2 border-0 mt-3 mb-2 pt-1 justify-content-center bg-primary" onClick={toggleDarkMode}><i className="material-icons" style={{ fontSize: '24px', color: 'white' }}>dark_mode</i></button>
+                <h3 className="col-7 mt-3 mb-2">Today's Beat</h3>
+                <button className="col-2 h6 rounded-2 border-0 mt-3 mb-2 mx-1 justify-content-center text-white" style={{backgroundColor: "#2E86C1"}}>Day {streakCounter}</button>
+                <button className="col-2 rounded-2 border-0 mt-3 mb-2 mx-1 pt-1 justify-content-center" style={{backgroundColor: "#000000"}} onClick={toggleDarkMode}><i className="material-icons" style={{ fontSize: '24px', color: 'white' }}>dark_mode</i></button>
               </div>
               <Card className="border-0 rounded-3 mb-3 shadow" style={shadows}>
-                <Card.Body className="py-3">
+                <Card.Body className="py-3 pt-4">
                   <h5 className="">{songName}</h5>
                   <h6 style={paragraph}>{artist}</h6>
                   <div className="text-muted fs-1 justify-content-center align-items-center row">
                     <img className="rounded-2 p-0 col-8 mt-2 mb-3" src={url}></img>
                   </div>
                   <h6>
-                    <span><Badge className="mx-1 bg-primary text-white p-2">{year}</Badge><Badge className="mx-1 bg-primary text-white p-2">{album}</Badge><Badge className="mx-1 bg-primary text-white p-2">{genre}</Badge></span>
+                    <span><Badge className="mx-1 my-1 bg-primary text-white p-2">{year}</Badge><Badge className="mx-1 my-1 bg-primary text-white p-2">{album}</Badge><Badge className="mx-1 my-1 bg-primary text-white p-2">{genre}</Badge></span>
                   </h6>
                 </Card.Body>
               </Card>
