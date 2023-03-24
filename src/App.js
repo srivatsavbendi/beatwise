@@ -146,15 +146,15 @@ function App() {
     <Container fluid style={styles}>
       
       <div className="border-lg d-flex pt-3 px-3 bg-dark fixed-top">
-        <h2 className="text-white" style={{fontFamily: "Helvetica"}}>beatwise</h2>
+        <h2 style={{color: "#2E86C1"}}> beat</h2><h2>wise</h2>
       </div>
       <Row className="justify-content-center mt-5">
         <Col xs={10} md={8} lg={6} className="col-12">
           <Card className="border-0 rounded-3" style={styles}>
             <Card.Body className="px-4 py-1 mt-3">
               <div className="row">
-                <h3 className="col-7 mt-3 mb-2">Today's Beat</h3>
-                <button className="col-2 h6 rounded-2 border-0 mt-3 mb-2 mx-1 justify-content-center text-white" style={{backgroundColor: "#2E86C1"}}>Day {streakCounter}</button>
+                <h3 className="col-6 mt-3 mb-2">Today's Beat</h3>
+                <button className="col-3 h6 rounded-2 border-0 mt-3 mb-2 mx-1 justify-content-center text-white" style={{backgroundColor: "#2E86C1"}}>Day {streakCounter}</button>
                 <button className="col-2 rounded-2 border-0 mt-3 mb-2 mx-1 pt-1 justify-content-center" style={{backgroundColor: "#000000"}} onClick={toggleDarkMode}><i className="material-icons" style={{ fontSize: '24px', color: 'white' }}>dark_mode</i></button>
               </div>
               <Card className="border-0 rounded-3 mb-3 shadow" style={shadows}>
