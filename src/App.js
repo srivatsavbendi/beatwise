@@ -18,6 +18,7 @@ function App() {
   const [trivia, setTrivia] = useState('');
   const [lyrics, setLyrics] = useState('');
   const [music, setMusic] = useState('');
+  const [badgeColor, setBadgeColor] = useState('');
 
   const [spotifyID, setSpotify] = useState(''); 
   const [youtubeID, setYoutube] = useState(''); 
@@ -65,14 +66,16 @@ function App() {
             setUrl(line.substring(line.indexOf(':') + 1));
           } else if (line.startsWith('Trivia:')) {
             setTrivia(line.substring(line.indexOf(':') + 1));
-          } else if (line.startsWith('Lyrics Highlight:')) {
+          } else if (line.startsWith('Lyrics:')) {
             setLyrics(line.substring(line.indexOf(':') + 1));
-          } else if (line.startsWith('Music Highlight:')) {
+          } else if (line.startsWith('Music:')) {
             setMusic(line.substring(line.indexOf(':') + 1));
           } else if (line.startsWith('Spotify ID:')) {
             setSpotify(line.substring(line.indexOf(':') + 1));
           } else if (line.startsWith('Youtube ID:')) {
             setYoutube(line.substring(line.indexOf(':') + 1));
+          } else if (line.startsWith('Badge Color:')) {
+            setBadgeColor(line.substring(line.indexOf(':') + 1));
           }
         });
       });
@@ -146,7 +149,7 @@ function App() {
     <Container fluid style={styles}>
       
       <div className="border-lg d-flex pt-3 px-3 bg-dark fixed-top">
-        <h2 style={{color: "#2E86C1"}}> beat</h2><h2>wise</h2>
+        <h2 style={{color: "#2E86C1"}}> beat</h2><h2 style={{color: "white"}}>wise</h2>
       </div>
       <Row className="justify-content-center mt-5">
         <Col xs={10} md={8} lg={6} className="col-12">
@@ -154,7 +157,7 @@ function App() {
             <Card.Body className="px-4 py-1 mt-3">
               <div className="row">
                 <h3 className="col-6 mt-3 mb-2">Today's Beat</h3>
-                <button className="col-3 h6 rounded-2 border-0 mt-3 mb-2 mx-1 justify-content-center text-white" style={{backgroundColor: "#2E86C1"}}>Day {streakCounter}</button>
+                <button className={`col-3 h6 rounded-2 border-0 mt-3 mb-2 mx-1 justify-content-center ${badgeColor}`}>Day {streakCounter}</button>
                 <button className="col-2 rounded-2 border-0 mt-3 mb-2 mx-1 pt-1 justify-content-center" style={{backgroundColor: "#000000"}} onClick={toggleDarkMode}><i className="material-icons" style={{ fontSize: '24px', color: 'white' }}>dark_mode</i></button>
               </div>
               <Card className="border-0 rounded-3 mb-3 shadow" style={shadows}>
@@ -165,7 +168,7 @@ function App() {
                     <img className="rounded-2 p-0 col-8 mt-2 mb-3" src={url}></img>
                   </div>
                   <h6>
-                    <span><Badge className="mx-1 my-1 bg-primary text-white p-2">{year}</Badge><Badge className="mx-1 my-1 bg-primary text-white p-2">{album}</Badge><Badge className="mx-1 my-1 bg-primary text-white p-2">{genre}</Badge></span>
+                    <span><Badge className={`mx-1 my-1 p-2 ${badgeColor}`}>{year}</Badge><Badge className={`mx-1 my-1 p-2 ${badgeColor}`}>{album}</Badge><Badge className={`mx-1 my-1 p-2 ${badgeColor}`}>{genre}</Badge></span>
                   </h6>
                 </Card.Body>
               </Card>

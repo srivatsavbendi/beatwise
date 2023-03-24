@@ -76,23 +76,69 @@ Album: Vienna
 Genre: New Wave
 Album Art URL:https://upload.wikimedia.org/wikipedia/en/4/43/Ultravox_-_Vienna.png
 Trivia: "Vienna" was initially a commercial failure upon its release, but it has since become a new wave classic and a staple of '80s music.
-Lyrics Highlight: The lyrics of "Vienna" are poetic and introspective, with lead singer Midge Ure crooning about the allure of a city: "This means nothing to me, Oh, Vienna."
-Music Highlight: The song's lush synthesizers and sweeping melody give it a grandiose feel that perfectly captures the song's theme of longing and desire.
+Lyrics: The lyrics of "Vienna" are poetic and introspective, with lead singer Midge Ure crooning about the allure of a city: "This means nothing to me, Oh, Vienna."
+Music: The song's lush synthesizers and sweeping melody give it a grandiose feel that perfectly captures the song's theme of longing and desire.
 Spotify ID:2LXjhNee4iPRVemx9NSZQ3
 Youtube ID:EoVBjYpxhF0&ab_channel=Ultravox-Topic
+Badge Color: bg-secondary text-light
+
+Date: 3/25/2023
+Song Name: Motion Sickness
+Artist: Phoebe Bridgers
+Year: 2017
+Album: Stranger in the Alps
+Genre: Indie Rock
+Album Art URL: https://media.pitchfork.com/photos/6380d5021628784965dd6626/master/w_1280%2Cc_limit/Phoebe-Bridgers-Stranger-in-the-Alps.jpg
+Trivia: "Motion Sickness" is a standout track from Phoebe Bridgers' debut album, which received critical acclaim upon its release. The song was inspired by a real-life breakup and captures the feeling of being unable to escape your emotions.
+Lyrics: "I hate you for what you did, and I miss you like a little kid / I faked it every time but that's alright / I can hardly feel anything, I hardly feel anything at all"
+Music: The song's driving rhythm and distorted guitar create a sense of urgency that mirrors the song's emotional intensity. Bridgers' vocals are raw and vulnerable, adding to the emotional weight of the track.
+Spotify ID:25Syi9wnfn6ZGAmiOBypPq
+Youtube ID:iMr69JihnP4&ab_channel=PhoebeBridgers-Topic
+Badge Color: bg-danger text-light
 
 Date: 3/26/2023
-Song Name: Rose Rouge
-Artist: St Germain
-Year: 2000
-Album: Tourist
-Genre: Nu Jazz
-Album Art URL:https://i.ebayimg.com/images/g/yW8AAOSwHtJZ7VZC/s-l300.jpg
-Trivia: "Rose Rouge" features a sample of Marlena Shaw's 1973 song "Woman of the Ghetto," which gives the track a jazzy and soulful feel.
-Lyrics Highlight: "Rose Rouge" is an instrumental track, so there are no lyrics to highlight. However, the song's use of samples and instrumentation give it a unique and entrancing sound.
-Music Highlight: The song's hypnotic beat and use of horns and piano create a sultry and smooth sound that perfectly captures the essence of nu jazz. The track is a standout on St Germain's critically acclaimed album, Tourist.
-Spotify ID:1vxnlpssY89yU6JxgyCbtL
-Youtube ID=_SZ_1ehxbEM&ab_channel=StGermainVEVO
+Song Name: Self Control
+Artist: Laura Branigan
+Year: 1984
+Album: Self Control
+Genre: Pop
+Album Art URL: https://images-na.ssl-images-amazon.com/images/I/71VKYZwQtEL._AC_SL1200_.jpg
+Trivia: "Self Control" is a cover of an Italian song called "Ti amo" by Umberto Tozzi. Branigan's version was a hit in many countries, including the US, where it reached number four on the Billboard Hot 100.
+Lyrics: The lyrics of "Self Control" are about a woman who is struggling to resist a man's advances. Branigan's powerful vocals add to the song's intensity and passion.
+Music: The song's pulsating beat and catchy melody make it an '80s classic. The use of synthesizers and drum machines create a danceable groove that still sounds fresh today.
+Spotify ID:6JNJERZGJwDVgkmbohBw7u
+Youtube ID:Ucmo6hDZRSY&ab_channel=LauraBranigan-Topic
+Badge Color: bg-danger text-light
+
+Date: 3/27/2023
+Song Name: Human
+Artist: Rag'n'Bone Man
+Year: 2016
+Album: Human
+Genre: Soul
+Album Art URL: https://th.bing.com/th/id/OIP.L9yG9pNwmb9P0-_kIthhAwHaHa?pid=ImgDet&rs=1
+Trivia: "Human" is the debut single of British singer-songwriter Rag'n'Bone Man and became an international hit in 2016.
+Lyrics: The lyrics of "Human" are introspective and self-reflective, with the singer contemplating his identity and purpose: "I'm only human after all, don't put your blame on me."
+Music: The song's powerful vocals and soulful instrumentation make it a stirring and emotional ballad that showcases Rag'n'Bone Man's incredible talent.
+Spotify ID:58zsLZPvfflaiIbNWoA22O
+Youtube ID:L3wKzyIN1yk&list=OLAK5uy_lI4RpX7VNAjLbz4VLBqzh6CjisBSLu1vU&ab_channel=RagnBoneManVEVO
+Badge Color: bg-success text-light
+
+Date: 3/28/2023
+Song Name: Purple Haze
+Artist: Jimi Hendrix
+Year: 1967
+Album: Are You Experienced
+Genre: Psychedelic Rock
+Album Art URL: https://th.bing.com/th/id/R.6e05d696c0c1f066e5d2618d2a529882?rik=%2fIcff35No4GmnA&riu=http%3a%2f%2f2.bp.blogspot.com%2f-CpUdVVsbdKU%2fUeAyUXqs-HI%2fAAAAAAAAB5s%2f4AXOXC3p2Hk%2fs1600%2fAre_You_Experienced_-_US_cover-edit.jpg&ehk=o34iMha8J%2fl1zX2J2r2U8swlczF6ZMO%2fvST8nz9vnJc%3d&risl=&pid=ImgRaw&r=0
+Trivia: "Purple Haze" is one of Jimi Hendrix's signature songs and is widely regarded as a classic of psychedelic rock.
+Lyrics: The lyrics of "Purple Haze" are surreal and poetic, with the singer describing his experiences under the influence of drugs: "Purple haze all in my brain, lately things just don't seem the same."
+Music: The song's distorted guitar riffs and psychedelic soundscapes make it a groundbreaking and influential work that has stood the test of time.
+Spotify ID:0wJoRiX5K5BxlqZTolB2LD
+Youtube ID:WGoDaYjdfSg&ab_channel=JimiHendrixVEVO
+Badge Color: bg-warning text-dark
+
+
 
 
 
