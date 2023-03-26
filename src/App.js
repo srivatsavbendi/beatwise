@@ -113,7 +113,10 @@ function App() {
       setStreakCounter(1);
     } else if (lastVisit === today) {
       // do nothing, streak remains the same
+      if (streak < 1) {
+        streak++; 
       setStreakCounter(streak);
+      }
     } else if (new Date(lastVisit).getDate() < new Date(today).getDate() - 1) {
       localStorage.setItem('lastVisit', today);
       localStorage.setItem('streak', 1);
