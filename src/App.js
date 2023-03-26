@@ -99,21 +99,30 @@ function App() {
   const [streakCounter, setStreakCounter] = useState(1);
 
   useEffect(() => {
+    var streak1 = localStorage.getItem('streak');
+    var streak = parseInt(streak1);
     const lastVisit = localStorage.getItem('lastVisit');
-    const today = new Date().toISOString().slice(0, 10);
+    const today = new Date().toLocaleDateString();
+    console.log(streak)
+    console.log(lastVisit)
+    console.log(today)
 
     if (!lastVisit) {
       localStorage.setItem('lastVisit', today);
+      localStorage.setItem('streak', 1);
       setStreakCounter(1);
     } else if (lastVisit === today) {
       // do nothing, streak remains the same
+      setStreakCounter(streak);
     } else if (new Date(lastVisit).getDate() < new Date(today).getDate() - 1) {
-      console.org("hello")
       localStorage.setItem('lastVisit', today);
+      localStorage.setItem('streak', 1);
       setStreakCounter(1);
     } else {
       localStorage.setItem('lastVisit', today);
-      setStreakCounter(prevCounter => prevCounter + 1);
+      streak++; 
+      localStorage.setItem('streak', streak);
+      setStreakCounter(streak);
     }
   }, []);
 
