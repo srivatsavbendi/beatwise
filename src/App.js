@@ -156,7 +156,8 @@ function App() {
   return (
     
     <Container fluid style={styles}>
-      {showPopup && (
+      
+      {/*showPopup && (
         <Modal show={showPopup} onHide={handleClosePopup}>
           <Modal.Header closeButton>
             <Modal.Title>Share the Daily Beat!</Modal.Title>
@@ -173,7 +174,8 @@ function App() {
             </Button>
           </Modal.Footer>
         </Modal>
-      )}
+      )*/}
+      
       <div className="border-lg d-flex pt-3 px-3 bg-dark fixed-top">
         <h2 style={{color: "#2E86C1"}}> beat</h2><h2 style={{color: "white"}}>wise</h2>
       </div>
