@@ -138,6 +138,64 @@ Spotify ID:0wJoRiX5K5BxlqZTolB2LD
 Youtube ID:WGoDaYjdfSg&ab_channel=JimiHendrixVEVO
 Badge Color: bg-warning text-dark
 
+Date: 3/29/2023
+Song Name: Somewhere Only We Know
+Artist: Keane
+Year: 2004
+Album: Hopes and Fears
+Genre: Alternative/Indie
+Album Art URL: https://i.scdn.co/image/ab67616d0000b273045d0a38105fbe7bde43c490
+Trivia: "Somewhere Only We Know" was used in the 2013 John Lewis Christmas advert, which helped propel the song back into the charts more than a decade after its initial release.
+Lyrics: The song's nostalgic lyrics describe a place where the singer feels safe and free: "Oh simple thing, where have you gone? I'm getting old, and I need something to rely on."
+Music: With its haunting piano melody and emotional vocals, "Somewhere Only We Know" is a beautiful and timeless ballad.
+Spotify ID:0ll8uFnc0nANY35E0Lfxvg
+Youtube ID:9SIuOq7mNKQ&ab_channel=Keane-Topic
+Badge Color: bg-success text-light
+
+Date: 3/30/2023
+Song Name: "Nuclear"
+Artist: Destiny's Child
+Year: 2013
+Album: Love Songs
+Genre: R&B
+Album Art URL: https://i1.sndcdn.com/artworks-uLxwnjY63VoQ-0-t500x500.jpg
+Trivia: "Nuclear" is the only new song on Destiny's Child's 2013 compilation album, Love Songs. Produced by Pharrell Williams, the track features smooth harmonies and a retro R&B vibe.
+Lyrics: "Nuclear" is a sultry love song that describes the explosive chemistry between two people. "I'm gonna get you hot, I'm gonna get you wet," the group sings.
+Music: With its retro funk groove and layered harmonies, "Nuclear" is a showcase for Destiny's Child's vocal prowess. The track features jazzy horns, a funky bassline, and a smooth guitar riff.
+Spotify ID:1kO615U99ZkJP2RSK9zR8x
+Youtube ID:iPeRZk2MhPE&ab_channel=DestinysChildVEVO
+Badge Color: bg-warning text-dark
+
+Date: 4/1/2023
+Song Name: "Lose Control"
+Artist: Missy Elliott
+Year: 2005
+Album: The Cookbook
+Genre: Hip-hop
+Album Art URL: https://i.scdn.co/image/ab67616d0000b273f1dfae21eaac0d24fb3dcf5a
+Trivia: "Lose Control" won a Grammy Award for Best Short Form Music Video in 2006. The song features Ciara and Fatman Scoop and was produced by Elliott's longtime collaborator, Timbaland.
+Lyrics: "Lose Control" is an upbeat party anthem that encourages listeners to dance and have fun. "Everybody here get it out of control, get your backs off the wall," the song says.
+Music: With its funky bassline, catchy hooks, and energetic beats, "Lose Control" is a classic Missy Elliott banger. The song features a sample from Cybotron's "Clear," and the video features futuristic costumes and dance moves.
+Spotify ID:0UaMYEvWZi0ZqiDOoHU3YI
+Youtube ID:aOt4xRE05wQ&ab_channel=MissyElliott-Topic
+Badge Color: bg-danger text-light
+
+Date: 4/2/2023
+Song Name: "The Wire"
+Artist: Haim
+Year: 2013
+Album: Days Are Gone
+Genre: Indie pop
+Album Art URL: https://i1.sndcdn.com/artworks-q24awLoGrqkU-0-t500x500.jpg
+Trivia: "The Wire" was the second single from Haim's debut album, Days Are Gone. The song was written by the three sisters in the band and produced by Ariel Rechtshaid.
+Lyrics: "The Wire" is a breakup song that deals with the pain of letting go. "You know I'm bad at communication, it's the hardest thing for me to do," the song says.
+Music: With its shimmering guitars, catchy chorus, and driving beat, "The Wire" is a standout track from Haim's debut album. The song features a soaring guitar solo and a memorable drum breakdown.
+Spotify ID:6golelYKuy85o3u0cxIxFK
+Youtube ID:1Vh0iP5BziQ&ab_channel=HAIM
+Badge Color: bg-white text-dark
+
+
+
 
 
 

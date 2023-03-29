@@ -159,13 +159,13 @@ function App() {
       {showPopup && (
         <Modal show={showPopup} onHide={handleClosePopup}>
           <Modal.Header closeButton>
-            <Modal.Title>Share Your Thoughts on the Daily Beat!</Modal.Title>
+            <Modal.Title>Share the Daily Beat!</Modal.Title>
           </Modal.Header>
           <Modal.Body>
             <p>
-            Don't forget to take a screenshot of the Daily Beat and share your thoughts with your friends using #beatwise!
+            Take a screenshot of the Daily Beat and share your thoughts on social media with your friends using #beatwise!
             </p>
-            <img src="/share.jpg" alt="Instagram Example" className="img-fluid" />
+            <img src="/share.jpg" alt="Instagram Example" className="img-fluid rounded-3" />
           </Modal.Body>
           <Modal.Footer>
             <Button variant="secondary" onClick={handleClosePopup}>
