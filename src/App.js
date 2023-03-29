@@ -5,7 +5,7 @@ import './index.css';
 import spotifyLogo from './spotify.png'; // import the image file
 import youtubeLogo from './youtube.png'; // import the image file
 import Cookies from 'js-cookie';
-
+import { Modal, Button } from 'react-bootstrap';
 
 function App() {
   const [data, setData] = useState('');
@@ -127,9 +127,53 @@ function App() {
     
 
 
+
+  const [showPopup, setShowPopup] = useState(true);
+
+  useEffect(() => {
+    const showPopupTimeout = setTimeout(() => {
+      setShowPopup(true);
+    }, 5000);
+  
+    return () => clearTimeout(showPopupTimeout);
+  }, []);
+
+  useEffect(() => {
+    const isPopupShown = localStorage.getItem('isPopupShown');
+    if (isPopupShown) {
+      setShowPopup(false);
+    } else {
+      localStorage.setItem('isPopupShown', true);
+    }
+  }, []);
+
+  const handleClosePopup = () => {
+    setShowPopup(false);
+  };
+
+
+
   return (
+    
     <Container fluid style={styles}>
-      
+      {showPopup && (
+        <Modal show={showPopup} onHide={handleClosePopup}>
+          <Modal.Header closeButton>
+            <Modal.Title>Share Your Thoughts on the Daily Beat!</Modal.Title>
+          </Modal.Header>
+          <Modal.Body>
+            <p>
+            Don't forget to take a screenshot of the Daily Beat and share your thoughts with your friends using #beatwise!
+            </p>
+            <img src="/share.jpg" alt="Instagram Example" className="img-fluid" />
+          </Modal.Body>
+          <Modal.Footer>
+            <Button variant="secondary" onClick={handleClosePopup}>
+              Close
+            </Button>
+          </Modal.Footer>
+        </Modal>
+      )}
       <div className="border-lg d-flex pt-3 px-3 bg-dark fixed-top">
         <h2 style={{color: "#2E86C1"}}> beat</h2><h2 style={{color: "white"}}>wise</h2>
       </div>
