@@ -4,6 +4,7 @@ import './App.css';
 import './index.css';
 import spotifyLogo from './spotify.png'; // import the image file
 import youtubeLogo from './youtube.png'; // import the image file
+import Cookies from 'js-cookie';
 
 
 function App() {
@@ -96,34 +97,34 @@ function App() {
 
 
 
+
   const [streakCounter, setStreakCounter] = useState(1);
-
+  
   useEffect(() => {
-    var streak = parseInt(localStorage.getItem('streak'));
-    const lastVisit = localStorage.getItem('lastVisit');
+    var streak = parseInt(Cookies.get('streak'));
+    const lastVisit = Cookies.get('lastVisit');
     const today = new Date().toLocaleDateString();
-    console.log(streak)
-    console.log(lastVisit)
-    console.log(today)
-
+  
     if (!lastVisit) {
-      localStorage.setItem('lastVisit', today);
-      localStorage.setItem('streak', 1);
-      streak = 1; 
-      console.log("start")
+      Cookies.set('lastVisit', today);
+      Cookies.set('streak', 1);
+      streak = 1;
     } else if (lastVisit === today) {
-      console.log("nothing");
       // do nothing, streak remains the same
-    } else if (new Date(lastVisit).getDate() === new Date(today).getDate() - 1) {
-      console.log("add")
-      localStorage.setItem('lastVisit', today);
-      streak++; 
-      localStorage.setItem('streak', streak);
+    } else if ((new Date() - new Date(lastVisit) <= 86400000) || (new Date(lastVisit) - new Date() <= 86400000)) {
+      Cookies.set('lastVisit', today);
+      streak++;
+      Cookies.set('streak', streak);
     } else {
-      // do nothing
-    }
+      Cookies.set('lastVisit', today);
+      Cookies.set('streak', 1);
+      streak = 1;
+    }    
+    
+  
     setStreakCounter(streak);
   }, []);
+    
 
 
   return (
