@@ -194,14 +194,455 @@ Spotify ID:6golelYKuy85o3u0cxIxFK
 Youtube ID:1Vh0iP5BziQ&ab_channel=HAIM
 Badge Color: bg-white text-dark
 
+Date: 4/2/2023
+Song Name: Breezeblocks
+Artist: Alt-J
+Year: 2012
+Album: An Awesome Wave
+Genre: Indie Rock
+Album Art URL: https://upload.wikimedia.org/wikipedia/en/f/f8/Alt-J_An_Awesome_Wave.jpg
+Background: Alt-J's debut album "An Awesome Wave" broke boundaries with its experimental sound. "Breezeblocks" stands out with its darkly poetic lyrics inspired by Maurice Sendak's "Where the Wild Things Are," exploring complex emotions through a captivating mix of indie rock and electronic elements.
+Lyrics: "Breezeblocks" navigates themes of obsession and heartache. The haunting refrain "Please don't go, I'll eat you whole, I love you so" echoes the turmoil of love's consuming nature.
+Music: The song's syncopated rhythm, layered instrumentation, and unique vocal delivery create an eerie yet mesmerizing sonic landscape, drawing listeners into its emotional vortex.
+Spotify ID: 1C2h7mLntPSeVYciMRTF6v
+Youtube ID: 1_PTB4xeDOc&ab_channel=alt-J
+Badge Color: bg-success text-light
+
+Date: 4/2/2023
+Song Name: Hallelujah
+Artist: Jeff Buckley
+Year: 1994
+Album: Grace
+Genre: Rock
+Album Art URL: https://upload.wikimedia.org/wikipedia/en/2/28/Jeff_buckley_grace.jpg
+Background: "Grace" marked Jeff Buckley's entrance onto the music scene. The album's iconic status owes much to "Hallelujah," a poignant Leonard Cohen cover. The album's fusion of folk, rock, and soul influences set a new standard.
+Lyrics: Buckley's soulful rendition captures the song's spiritual essence, exploring themes of longing, redemption, and vulnerability. The chorus's cry of "Hallelujah" encapsulates a complex mix of emotions.
+Music: Buckley's emotive voice, accompanied by delicate acoustic guitar work, creates an intimate atmosphere. The song's gradual crescendo and emotional intensity leave a lasting impact.
+Spotify ID: 6FiUr7KpP7Ss4eAT2dCVsM
+Youtube ID: y8AWFf7EAc4&ab_channel=JeffBuckleyVEVO
+Badge Color: bg-secondary text-light
+
+Date: 4/2/2023
+Song Name: Electric Feel
+Artist: MGMT
+Year: 2007
+Album: Oracular Spectacular
+Genre: Indie Pop
+Album Art URL: https://upload.wikimedia.org/wikipedia/en/e/e6/MGMT_-_Oracular_Spectacular.png
+Background: "Oracular Spectacular" catapulted MGMT into the limelight. "Electric Feel" showcases their psychedelic-infused indie pop sound, marked by infectious melodies and experimental production.
+Lyrics: The song's enigmatic lyrics evoke a sense of whimsy, describing an otherworldly connection. Lines like "Shock me like an electric eel" and "All along the eastern shore, put your circuits in the sea" add to its surreal charm.
+Music: The blend of shimmering synths, groovy basslines, and smooth vocals creates an irresistible groove. "Electric Feel" is a sonic journey that keeps listeners dancing.
+Spotify ID: 0uq5PttqEjj3IH1bzwcrXF
+Youtube ID: MmZexg8sxyk&ab_channel=MGMTVEVO
+Badge Color: bg-info text-dark
+
+Date: 4/2/2023
+Song Name: A Day in the Life
+Artist: The Beatles
+Year: 1967
+Album: Sgt. Pepper's Lonely Hearts Club Band
+Genre: Rock
+Album Art URL: https://upload.wikimedia.org/wikipedia/en/5/50/Sgt._Pepper%27s_Lonely_Hearts_Club_Band.jpg
+Background: "A Day in the Life" is a masterpiece from The Beatles' iconic album. It marked a shift in their sound and a profound evolution in the music world. The album's blend of psychedelic and experimental elements pushed boundaries.
+Lyrics: The song narrates a day's events with a blend of John Lennon's introspective verses and Paul McCartney's observational style, culminating in the evocative crescendo of "I'd love to turn you on."
+Music: The song's orchestral arrangement, merging with rock instrumentation, captures the highs and lows of life. Its avant-garde crescendo and closing piano chord are unforgettable.
+Spotify ID: 0A8z6m4GUZfBR2dUEK5Wan
+Youtube ID: usNsCeOV4GM&ab_channel=thebeatles
+Badge Color: bg-warning text-dark
+
+Date: 4/2/2023
+Song Name: Jóga
+Artist: Björk
+Year: 1997
+Album: Homogenic
+Genre: Electronic
+Album Art URL: https://upload.wikimedia.org/wikipedia/en/3/3b/Bj%C3%B6rk_-_Homogenic.png
+Background: "Homogenic" showcased Björk's genre-blurring artistry. "Jóga" is an ode to her homeland, Iceland, while exploring themes of emotional resilience. The album's fusion of electronic and orchestral elements was groundbreaking.
+Lyrics: "Jóga"'s lyrics dive into Björk's complex relationship with her country and herself. The lines "State of emergency is where I want to be" highlight her determination to embrace vulnerability.
+Music: The song combines sweeping strings, glitchy electronic beats, and Björk's distinctive voice, creating an ethereal sonic landscape that resonates with raw emotion.
+Spotify ID: 2ADn7Knj8HIH2Z0lA27eCf
+Youtube ID: emineoKeJq4&ab_channel=Bj%C3%B6rk
+Badge Color: bg-danger text-light
 
 
+Date: 8/10/2023
+Song Name: Breezeblocks
+Artist: Alt-J
+Year: 2012
+Album: An Awesome Wave
+Genre: Indie Rock
+Album Art URL: https://upload.wikimedia.org/wikipedia/en/f/f8/Alt-J_An_Awesome_Wave.jpg
+Background: Alt-J's debut album "An Awesome Wave" broke boundaries with its experimental sound. "Breezeblocks" stands out with its darkly poetic lyrics inspired by Maurice Sendak's "Where the Wild Things Are," exploring complex emotions through a captivating mix of indie rock and electronic elements.
+Lyrics: "Breezeblocks" navigates themes of obsession and heartache. The haunting refrain "Please don't go, I'll eat you whole, I love you so" echoes the turmoil of love's consuming nature.
+Music: The song's syncopated rhythm, layered instrumentation, and unique vocal delivery create an eerie yet mesmerizing sonic landscape, drawing listeners into its emotional vortex.
+Spotify ID: 1C2h7mLntPSeVYciMRTF6v
+Youtube ID: 1_PTB4xeDOc&ab_channel=alt-J
+Badge Color: bg-success text-light
+
+Date: 8/11/2023
+Song Name: Hallelujah
+Artist: Jeff Buckley
+Year: 1994
+Album: Grace
+Genre: Rock
+Album Art URL: https://upload.wikimedia.org/wikipedia/en/2/28/Jeff_buckley_grace.jpg
+Background: "Grace" marked Jeff Buckley's entrance onto the music scene. The album's iconic status owes much to "Hallelujah," a poignant Leonard Cohen cover. The album's fusion of folk, rock, and soul influences set a new standard.
+Lyrics: Buckley's soulful rendition captures the song's spiritual essence, exploring themes of longing, redemption, and vulnerability. The chorus's cry of "Hallelujah" encapsulates a complex mix of emotions.
+Music: Buckley's emotive voice, accompanied by delicate acoustic guitar work, creates an intimate atmosphere. The song's gradual crescendo and emotional intensity leave a lasting impact.
+Spotify ID: 6FiUr7KpP7Ss4eAT2dCVsM
+Youtube ID: y8AWFf7EAc4&ab_channel=JeffBuckleyVEVO
+Badge Color: bg-secondary text-light
+
+Date: 8/12/2023
+Song Name: Electric Feel
+Artist: MGMT
+Year: 2007
+Album: Oracular Spectacular
+Genre: Indie Pop
+Album Art URL: https://upload.wikimedia.org/wikipedia/en/e/e6/MGMT_-_Oracular_Spectacular.png
+Background: "Oracular Spectacular" catapulted MGMT into the limelight. "Electric Feel" showcases their psychedelic-infused indie pop sound, marked by infectious melodies and experimental production.
+Lyrics: The song's enigmatic lyrics evoke a sense of whimsy, describing an otherworldly connection. Lines like "Shock me like an electric eel" and "All along the eastern shore, put your circuits in the sea" add to its surreal charm.
+Music: The blend of shimmering synths, groovy basslines, and smooth vocals creates an irresistible groove. "Electric Feel" is a sonic journey that keeps listeners dancing.
+Spotify ID: 0uq5PttqEjj3IH1bzwcrXF
+Youtube ID: MmZexg8sxyk&ab_channel=MGMTVEVO
+Badge Color: bg-info text-dark
+
+Date: 8/13/2023
+Song Name: A Day in the Life
+Artist: The Beatles
+Year: 1967
+Album: Sgt. Pepper's Lonely Hearts Club Band
+Genre: Rock
+Album Art URL: https://upload.wikimedia.org/wikipedia/en/5/50/Sgt._Pepper%27s_Lonely_Hearts_Club_Band.jpg
+Background: "A Day in the Life" is a masterpiece from The Beatles' iconic album. It marked a shift in their sound and a profound evolution in the music world. The album's blend of psychedelic and experimental elements pushed boundaries.
+Lyrics: The song narrates a day's events with a blend of John Lennon's introspective verses and Paul McCartney's observational style, culminating in the evocative crescendo of "I'd love to turn you on."
+Music: The song's orchestral arrangement, merging with rock instrumentation, captures the highs and lows of life. Its avant-garde crescendo and closing piano chord are unforgettable.
+Spotify ID: 0A8z6m4GUZfBR2dUEK5Wan
+Youtube ID: usNsCeOV4GM&ab_channel=thebeatles
+Badge Color: bg-warning text-dark
+
+Date: 8/14/2023
+Song Name: Jóga
+Artist: Björk
+Year: 1997
+Album: Homogenic
+Genre: Electronic
+Album Art URL: https://upload.wikimedia.org/wikipedia/en/3/3b/Bj%C3%B6rk_-_Homogenic.png
+Background: "Homogenic" showcased Björk's genre-blurring artistry. "Jóga" is an ode to her homeland, Iceland, while exploring themes of emotional resilience. The album's fusion of electronic and orchestral elements was groundbreaking.
+Lyrics: "Jóga"'s lyrics dive into Björk's complex relationship with her country and herself. The lines "State of emergency is where I want to be" highlight her determination to embrace vulnerability.
+Music: The song combines sweeping strings, glitchy electronic beats, and Björk's distinctive voice, creating an ethereal sonic landscape that resonates with raw emotion.
+Spotify ID: 2ADn7Knj8HIH2Z0lA27eCf
+Youtube ID: emineoKeJq4&ab_channel=Bj%C3%B6rk
+Badge Color: bg-danger text-light
 
 
+Date: 8/15/2023
+Song Name: Royals
+Artist: Lorde
+Year: 2013
+Album: Pure Heroine
+Genre: Pop
+Album Art URL: https://upload.wikimedia.org/wikipedia/en/2/2a/Lorde_-_Pure_Heroine.png
+Background: Lorde's debut album "Pure Heroine" showcased her fresh take on pop music. "Royals" critiques materialism and fame culture, resonating with listeners through its minimalist production and honest lyricism.
+Lyrics: The lyrics cleverly juxtapose opulent imagery with grounded sentiments, reflecting Lorde's disdain for excess. Lines like "We'll never be royals, it don't run in our blood" capture the essence of the song's message.
+Music: The song's sparse arrangement, finger snaps, and Lorde's distinctive vocals create an understated yet impactful sound, making "Royals" a pop standout.
+Spotify ID: 7D4c1wfasFtpC6zpI1vg08
+Youtube ID: nlcIKh6sBtc&ab_channel=LordeVEVO
+Badge Color: bg-primary text-light
 
+Date: 8/16/2023
+Song Name: Imagine
+Artist: John Lennon
+Year: 1971
+Album: Imagine
+Genre: Rock
+Album Art URL: https://upload.wikimedia.org/wikipedia/en/9/97/John_Lennon_-_Imagine_-_1971.jpg
+Background: "Imagine" remains one of John Lennon's most iconic works. The album and its titular track promote peace and unity, embodying Lennon's activist spirit. The song's cultural impact has endured for decades.
+Lyrics: The utopian lyrics envision a world without borders, religions, or material possessions. Lines like "Imagine there's no countries, it isn't hard to do" continue to resonate as a call for global harmony.
+Music: The song's gentle piano melody, accompanied by Lennon's tender vocals, creates a timeless and intimate atmosphere, making it a moving anthem for change.
+Spotify ID: 0HNeX0k2vPejqvKt3CkaNE
+Youtube ID: yRhq-yO1KN8&ab_channel=JohnLennonVEVO
+Badge Color: bg-warning text-dark
 
+Date: 8/17/2023
+Song Name: Mykonos
+Artist: Fleet Foxes
+Year: 2008
+Album: Fleet Foxes
+Genre: Folk
+Album Art URL: https://upload.wikimedia.org/wikipedia/en/a/a1/Fleet_Foxes_album_cover.jpg
+Background: "Fleet Foxes" marked a resurgence of folk music. "Mykonos" stands out with its intricate harmonies and evocative lyrics, encapsulating the band's nostalgic and nature-inspired sound.
+Lyrics: The lyrics paint a vivid picture of the idyllic Greek island, invoking a sense of wanderlust and longing for simpler times. "And do you see the way that tree bends?" captures the song's dreamy essence.
+Music: The song's lush vocal arrangements, acoustic guitar melodies, and steady percussion create an immersive folk experience that transports listeners to the shores of Mykonos.
+Spotify ID: 4O4g9MZN5c3a3JcH8HG3fi
+Youtube ID: DyY57iyoWgI&ab_channel=SubPop
+Badge Color: bg-success text-light
 
+Date: 8/18/2023
+Song Name: Karma Police
+Artist: Radiohead
+Year: 1997
+Album: OK Computer
+Genre: Alternative Rock
+Album Art URL: https://upload.wikimedia.org/wikipedia/en/a/a1/Radiohead.okcomputer.albumart.jpg
+Background: "OK Computer" pushed the boundaries of alternative rock. "Karma Police" is a haunting standout, capturing the album's themes of alienation and technological anxieties.
+Lyrics: The song's lyrics reflect a sense of impending doom and paranoia, exploring themes of justice and retribution. The repeated plea "For a minute there, I lost myself" adds to its emotional weight.
+Music: The blend of melancholic piano, ethereal vocals, and the song's dynamic shifts create an eerie sonic landscape that resonates with Radiohead's unique style.
+Spotify ID: 4yLq7QM2d0hD4eJjHCg9Z6
+Youtube ID: 1uYWYWPc9HU&ab_channel=Radiohead
+Badge Color: bg-secondary text-light
 
+Date: 8/19/2023
+Song Name: Midnight City
+Artist: M83
+Year: 2011
+Album: Hurry Up, We're Dreaming
+Genre: Synthpop
+Album Art URL: https://upload.wikimedia.org/wikipedia/en/c/cc/M83_Hurry_Up_We%27re_Dreaming.jpg
+Background: "Hurry Up, We're Dreaming" showcased M83's synth-driven sound. "Midnight City" epitomizes the album's nostalgic yet futuristic vibe, becoming a synthpop anthem.
+Lyrics: The enigmatic lyrics capture the sensation of being lost in a city at night, seeking connection and meaning. "Waiting for a roar" echoes the desire for something greater.
+Music: The song's pulsating synths, atmospheric saxophone solo, and anthemic chorus create an electrifying and immersive experience that transports listeners to a neon-lit world.
+Spotify ID: 5K7eFzP17PmOo1z9Uy4P5o
+Youtube ID: dX3k_QDnzHE&ab_channel=M83
+Badge Color: bg-info text-dark
+
+Date: 8/20/2023
+Song Name: Hotel California
+Artist: Eagles
+Year: 1976
+Album: Hotel California
+Genre: Rock
+Album Art URL: https://upload.wikimedia.org/wikipedia/en/2/23/Hotelcalifornia.jpg
+Background: "Hotel California" remains a classic rock staple. The album's titular track became an instant hit, showcasing the Eagles' signature harmonies and intricate storytelling.
+Lyrics: The song's cryptic lyrics narrate a dark allegory, with lines like "You can check out anytime you like, but you can never leave" inviting various interpretations.
+Music: The song's iconic guitar solos, intricate arrangements, and haunting melodies create a sense of mystique, making "Hotel California" a timeless rock masterpiece.
+Spotify ID: 40riOy7x9W7GXjyGp4pjAv
+Youtube ID: 1lWJXDG2i0A&ab_channel=Eagles-Topic
+Badge Color: bg-warning text-dark
+
+Date: 8/21/2023
+Song Name: Somebody to Love
+Artist: Queen
+Year: 1976
+Album: A Day at the Races
+Genre: Rock
+Album Art URL: https://upload.wikimedia.org/wikipedia/en/7/7c/A_Day_at_the_Races.png
+Background: "A Day at the Races" followed Queen's acclaimed "A Night at the Opera." "Somebody to Love" is a vocal masterpiece, showcasing Freddie Mercury's powerful range and the band's grandiose sound.
+Lyrics: The lyrics express a yearning for connection and meaning, encapsulating the universal desire to find someone who understands and loves unconditionally.
+Music: The song's gospel-inspired harmonies, elaborate vocal arrangements, and Mercury's electrifying performance create a soul-stirring and unforgettable rock anthem.
+Spotify ID: 1DjlFD0b0P3wH2bSnTglWf
+Youtube ID: kijpcUv-b8M&ab_channel=QueenOfficial
+Badge Color: bg-danger text-light
+
+Date: 8/22/2023
+Song Name: Dreams
+Artist: The Cranberries
+Year: 1992
+Album: Everybody Else Is Doing It, So Why Can't We?
+Genre: Alternative Rock
+Album Art URL: https://upload.wikimedia.org/wikipedia/en/6/6f/EverybodyElseIsDoingIt%2CSoWhyCantWe%3F.jpg
+Background: The Cranberries' debut album marked their unique blend of alternative rock and Irish folk influences. "Dreams" showcased Dolores O'Riordan's ethereal vocals and the band's introspective songwriting.
+Lyrics: The dreamy lyrics explore yearning and longing, capturing the desire for a love that transcends time and distance. The repetition of "Oh, my life is changing every day" reflects the song's emotional arc.
+Music: The song's jangly guitars, lilting melody, and O'Riordan's distinct vocals create a nostalgic yet vibrant sound that continues to resonate with listeners.
+Spotify ID: 6bbu8DcuDKs7GEeDBXxHcx
+Youtube ID: Yam5uK6e-bQ&ab_channel=TheCranberriesVEVO
+Badge Color: bg-success text-light
+
+Date: 8/23/2023
+Song Name: Losing My Religion
+Artist: R.E.M.
+Year: 1991
+Album: Out of Time
+Genre: Alternative Rock
+Album Art URL: https://upload.wikimedia.org/wikipedia/en/1/1a/Out_of_Time_%28R.E.M.%29.jpg
+Background: "Out of Time" marked R.E.M.'s commercial breakthrough. "Losing My Religion" blended folk-rock with alternative elements, becoming an iconic song of self-doubt and introspection.
+Lyrics: The song's lyrics explore themes of uncertainty and questioning one's faith or beliefs. The title phrase "losing my religion" refers to an idiom for feeling at a loss or in distress.
+Music: The song's distinctive mandolin riff, Michael Stipe's emotive vocals, and the harmonies of the chorus create a melancholic yet catchy sound that left a profound impact.
+Spotify ID: 6FGP9L6W1w4fvlT1e3o1xC
+Youtube ID: xwtdhWltSIg&ab_channel=remhq
+Badge Color: bg-primary text-light
+
+Date: 8/24/2023
+Song Name: Bohemian Rhapsody
+Artist: Queen
+Year: 1975
+Album: A Night at the Opera
+Genre: Rock
+Album Art URL: https://upload.wikimedia.org/wikipedia/en/4/4d/A_Night_at_the_Opera_%28Queen%29.png
+Background: "A Night at the Opera" featured Queen's musical diversity. "Bohemian Rhapsody" defied conventions with its operatic structure, becoming a monumental rock epic.
+Lyrics: The song's enigmatic lyrics blend different perspectives, ranging from introspection to dramatic storytelling. The iconic "Is this the real life? Is this just fantasy?" intro sets the tone.
+Music: The song's blend of rock, opera, and ballad elements, Freddie Mercury's powerful vocals, and its dramatic shifts created a genre-defying masterpiece that continues to captivate audiences.
+Spotify ID: 7tFiyTwD0nx5a1eklYtX2J
+Youtube ID: fJ9rUzIMcZQ&ab_channel=QueenOfficial
+Badge Color: bg-danger text-light
+
+Date: 8/25/2023
+Song Name: Somebody That I Used to Know
+Artist: Gotye ft. Kimbra
+Year: 2011
+Album: Making Mirrors
+Genre: Indie Pop
+Album Art URL: https://upload.wikimedia.org/wikipedia/en/1/19/Gotye_Making_Mirrors.jpg
+Background: Gotye's album "Making Mirrors" showcased his eclectic sound. "Somebody That I Used to Know" became a global hit, exploring themes of heartbreak and nostalgia through its inventive production.
+Lyrics: The song's dueling perspectives capture the aftermath of a broken relationship, with Gotye and Kimbra sharing their emotional experiences. Lines like "But you didn't have to cut me off" resonate with listeners.
+Music: The song's use of samples, layered vocals, and unique percussive elements create a distinctive sonic texture that complements the raw emotions of the lyrics.
+Spotify ID: 4wCmqSrbyCgxEXROQE6vtV
+Youtube ID: 8UVNT4wvIGY&ab_channel=gotyemusic
+Badge Color: bg-info text-dark
+
+Date: 8/26/2023
+Song Name: No Woman, No Cry (Live)
+Artist: Bob Marley & The Wailers
+Year: 1975
+Album: Live!
+Genre: Reggae
+Album Art URL: https://upload.wikimedia.org/wikipedia/en/8/84/Bob_Marley_and_The_Wailers_Live.jpg
+Background: "Live!" captured the energy of Bob Marley's performances. "No Woman, No Cry" is a live rendition that became one of Marley's most beloved songs, showcasing his reggae prowess.
+Lyrics: The song's heartfelt lyrics console and uplift, offering a message of reassurance and strength during challenging times. "Everything's gonna be all right" became an iconic refrain.
+Music: The song's laid-back reggae rhythm, soulful vocals, and the crowd's participation create an atmosphere of unity and positivity that reflects Marley's message of love and peace.
+Spotify ID: 7IjEz9Kcv5tC68WWU7y2mW
+Youtube ID: RZr72OL6Xh0&ab_channel=BobMarley
+Badge Color: bg-success text-light
+
+Date: 8/27/2023
+Song Name: Hurt
+Artist: Johnny Cash
+Year: 2002
+Album: American IV: The Man Comes Around
+Genre: Country
+Album Art URL: https://upload.wikimedia.org/wikipedia/en/2/26/JohnnyCashAmericanIV.jpg
+Background: "American IV: The Man Comes Around" marked Johnny Cash's late-career resurgence. "Hurt" is a poignant cover of Nine Inch Nails' song, showcasing Cash's vulnerability and reflection on mortality.
+Lyrics: The song's raw lyrics delve into themes of regret, pain, and aging, offering a glimpse into Cash's introspection and the wisdom that comes with experience.
+Music: The song's stripped-down arrangement, Cash's weathered vocals, and the haunting piano melody create an emotional and haunting rendition that resonates with listeners.
+Spotify ID: 3VKrF5o1Gt8z5mHACsD5zD
+Youtube ID: vNEmaq5cxYE&ab_channel=JohnnyCashVEVO
+Badge Color: bg-secondary text-light
+
+Date: 8/28/2023
+Song Name: One
+Artist: U2
+Year: 1991
+Album: Achtung Baby
+Genre: Rock
+Album Art URL: https://upload.wikimedia.org/wikipedia/en/4/41/Achtungbaby.jpg
+Background: "Achtung Baby" marked U2's reinvention. "One" became a powerful anthem of unity and connection, reflecting the band's exploration of new sonic territory.
+Lyrics: The song's lyrics touch on themes of reconciliation and solidarity, capturing the idea that despite differences, we are all interconnected. The chorus's refrain "We're one, but we're not the same" encapsulates the sentiment.
+Music: The song's introspective lyrics, Bono's emotive vocals, and the blend of rock and electronic elements create a moving and anthemic sound that resonates with listeners.
+Spotify ID: 2pCk6DUxc8fUKd9jnL3XrM
+Youtube ID: eZzo1EFd4JY&ab_channel=U2VEVO
+Badge Color: bg-primary text-light
+
+Date: 8/29/2023
+Song Name: Rolling in the Deep
+Artist: Adele
+Year: 2010
+Album: 21
+Genre: Soul
+Album Art URL: https://upload.wikimedia.org/wikipedia/en/9/91/Adele_-_21.png
+Background: "21" marked Adele's breakthrough album. "Rolling in the Deep" showcased her powerful vocals and soulful songwriting, becoming an anthem of heartbreak and empowerment.
+Lyrics: The song's lyrics navigate themes of betrayal and resilience, offering a fiery and unapologetic perspective on a failed relationship. "We could have had it all" captures the raw emotion.
+Music: The song's blend of soul, pop, and blues elements, Adele's emotive delivery, and the driving rhythm create an emotional and unforgettable sound that resonates with listeners.
+Spotify ID: 1CkvWZme3pRgbzaxZnTl5X
+Youtube ID: rYEDA3JcQqw&ab_channel=AdeleVEVO
+Badge Color: bg-danger text-light
+
+Date: 8/30/2023
+Song Name: Mr. Brightside
+Artist: The Killers
+Year: 2004
+Album: Hot Fuss
+Genre: Indie Rock
+Album Art URL: https://upload.wikimedia.org/wikipedia/en/9/9b/The_Killers_-_Hot_Fuss.png
+Background: "Hot Fuss" marked The Killers' debut album. "Mr. Brightside" became a breakout hit, capturing the band's blend of new wave and rock influences, and setting the stage for their success.
+Lyrics: The song's lyrics explore jealousy, betrayal, and heartache, offering a glimpse into the narrator's internal struggle. "Jealousy, turning saints into the sea" highlights the emotional turmoil.
+Music: The song's infectious melodies, driving rhythm, and Brandon Flowers' distinctive vocals create an energetic and anthemic indie rock sound that continues to resonate with audiences.
+Spotify ID: 7oK9VyNzrYvRFo7nQEYkWN
+Youtube ID: gGdGFtwCNBE&ab_channel=TheKillersVEVO
+Badge Color: bg-success text-light
+
+Date: 8/31/2023
+Song Name: I Want to Hold Your Hand
+Artist: The Beatles
+Year: 1963
+Album: With The Beatles
+Genre: Rock
+Album Art URL: https://upload.wikimedia.org/wikipedia/en/4/42/Withthebeatlescover.jpg
+Background: "With The Beatles" marked the band's second album. "I Want to Hold Your Hand" catapulted The Beatles to international fame, showcasing their infectious pop-rock sound and harmonies.
+Lyrics: The song's simple yet heartfelt lyrics express a longing for physical closeness, capturing the essence of youthful romance. "I want to hold your hand" resonates as an iconic declaration of affection.
+Music: The song's catchy melody, harmonized vocals, and energetic instrumentation create a joyful and timeless pop-rock sound that remains a classic in music history.
+Spotify ID: 3ZFwu2L7aDpDlZDl9Ukbsx
+Youtube ID: 8Uee_mcxvrw&ab_channel=TheBeatlesVEVO
+Badge Color: bg-warning text-dark
+
+Date: 9/1/2023
+Song Name: Viva la Vida
+Artist: Coldplay
+Year: 2008
+Album: Viva la Vida or Death and All His Friends
+Genre: Alternative Rock
+Album Art URL: https://upload.wikimedia.org/wikipedia/en/8/88/Viva_la_Vida_or_Death_and_All_His_Friends_album_cover.jpg
+Background: "Viva la Vida or Death and All His Friends" showcased Coldplay's sonic evolution. "Viva la Vida" combined historical imagery with a lush sound, becoming a landmark of their career.
+Lyrics: The song's lyrics evoke themes of power, change, and mortality, drawing inspiration from historical figures. The title phrase "Viva la Vida" translates to "Long Live Life" in Spanish.
+Music: The song's sweeping strings, soaring melodies, and Chris Martin's emotive vocals create a majestic and anthemic alternative rock sound that resonates with listeners.
+Spotify ID: 1Dj3N1JDpq7Zp7aWb8R0oT
+Youtube ID: dvgZkm1xWPE&ab_channel=Coldplay
+Badge Color: bg-primary text-light
+
+Date: 9/2/2023
+Song Name: I Will Always Love You
+Artist: Whitney Houston
+Year: 1992
+Album: The Bodyguard: Original Soundtrack Album
+Genre: R&B
+Album Art URL: https://upload.wikimedia.org/wikipedia/en/a/ab/BodyguardOST.jpg
+Background: "The Bodyguard" soundtrack showcased Whitney Houston's vocal prowess. "I Will Always Love You" is a cover of Dolly Parton's song, becoming one of the best-selling singles of all time.
+Lyrics: The song's poignant lyrics express love, farewell, and the promise of enduring affection. The chorus's powerful declaration "And I will always love you" resonates with deep emotion.
+Music: The song's heartfelt delivery, soaring vocal runs, and orchestral arrangement create an emotional and unforgettable R&B ballad that continues to move audiences.
+Spotify ID: 6lIx7m5I4mX5zr1Dx4OdhV
+Youtube ID: 3JWTaaS7LdU&ab_channel=WhitneyHoustonVEVO
+Badge Color: bg-danger text-light
+
+Date: 9/3/2023
+Song Name: Hallelujah
+Artist: Leonard Cohen
+Year: 1984
+Album: Various Positions
+Genre: Folk
+Album Art URL: https://upload.wikimedia.org/wikipedia/en/7/70/Leonard_Cohen_-_Various_Positions.png
+Background: "Various Positions" featured Leonard Cohen's introspective songwriting. "Hallelujah" is a poetic masterpiece that explores themes of spirituality, love, and human vulnerability.
+Lyrics: The song's intricate lyrics draw on biblical imagery and references, offering a profound meditation on life's complexities and contradictions. The word "Hallelujah" itself carries layered meanings.
+Music: The song's gentle acoustic guitar, Cohen's deep baritone vocals, and the emotive melody create an intimate and contemplative folk sound that resonates with listeners' emotions.
+Spotify ID: 4gb4Tfln4K0HdH6ZXvoKJp
+Youtube ID: tI3tumrUPl0&ab_channel=LeonardCohen
+Badge Color: bg-success text-light
+
+Date: 9/4/2023
+Song Name: Smooth Criminal
+Artist: Michael Jackson
+Year: 1987
+Album: Bad
+Genre: Pop
+Album Art URL: https://upload.wikimedia.org/wikipedia/en/5/53/Michael_Jackson_-_Bad.png
+Background: "Bad" marked Michael Jackson's continued dominance. "Smooth Criminal" showcased his innovative blend of pop and rock, becoming known for its distinctive music video and iconic dance moves.
+Lyrics: The song's lyrics tell the story of a woman named Annie who is attacked in her apartment. The line "Annie, are you OK?" became a memorable motif in the song.
+Music: The song's driving bassline, pulsating rhythm, and Jackson's electrifying vocals create a dynamic and danceable pop-rock sound that remains an essential part of his legacy.
+Spotify ID: 1E4sMnz7pd1ZwbOq6KcD5t
+Youtube ID: h_D3VFfhvs4&ab_channel=MichaelJacksonVEVO
+Badge Color: bg-primary text-light
+
+Date: 9/5/2023
+Song Name: Smooth Operator
+Artist: Sade
+Year: 1984
+Album: Diamond Life
+Genre: Smooth Jazz
+Album Art URL: https://upload.wikimedia.org/wikipedia/en/7/75/Sade_Diamond_Life.jpg
+Background: "Diamond Life" marked Sade's debut album. "Smooth Operator" epitomized her smooth jazz and soul fusion, capturing the essence of her sensual and sophisticated sound.
+Lyrics: The song's lyrics tell the story of a charismatic and elusive man known as the "Smooth Operator." Sade's smooth delivery adds to the seductive allure of the song.
+Music: The song's sultry saxophone, groovy bassline, and Sade's captivating vocals create a relaxing and sensual smooth jazz sound that invites listeners into its luxurious world.
+Spotify ID: 4MIJpXTuLBo1X1Hx4k0e3v
+Youtube ID: cAQSZhazYk8&ab_channel=SadeVEVO
+Badge Color: bg-warning text-dark
 
 
 
