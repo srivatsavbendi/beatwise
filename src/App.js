@@ -16,7 +16,7 @@ function App() {
   const [album, setAlbum] = useState('');
   const [genre, setGenre] = useState('');
   const [url, setUrl] = useState('');
-  const [trivia, setTrivia] = useState('');
+  const [background, setBackground] = useState('');
   const [lyrics, setLyrics] = useState('');
   const [music, setMusic] = useState('');
   const [badgeColor, setBadgeColor] = useState('');
@@ -65,8 +65,8 @@ function App() {
             setGenre(line.substring(line.indexOf(':') + 1));
           } else if (line.startsWith('Album Art URL:')) {
             setUrl(line.substring(line.indexOf(':') + 1));
-          } else if (line.startsWith('Trivia:')) {
-            setTrivia(line.substring(line.indexOf(':') + 1));
+          } else if (line.startsWith('Background:')) {
+            setBackground(line.substring(line.indexOf(':') + 1));
           } else if (line.startsWith('Lyrics:')) {
             setLyrics(line.substring(line.indexOf(':') + 1));
           } else if (line.startsWith('Music:')) {
@@ -202,8 +202,8 @@ function App() {
               </Card>
               <Card className="border-0 rounded-3 shadow mb-3" style={shadows}>
                 <Card.Body className="py-3">
-                  <h5 className="">Trivia</h5>
-                  <p style={paragraph}>{trivia}</p>
+                  <h5 className="">Background</h5>
+                  <p style={paragraph}>{background}</p>
                 </Card.Body>
               </Card>
               <Card className="border-0 rounded-3 shadow mb-3" style={shadows}>
