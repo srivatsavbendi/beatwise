@@ -299,12 +299,12 @@ Artist: MGMT
 Year: 2007
 Album: Oracular Spectacular
 Genre: Indie Pop
-Album Art URL: https://upload.wikimedia.org/wikipedia/en/e/e6/MGMT_-_Oracular_Spectacular.png
+Album Art URL: https://upload.wikimedia.org/wikipedia/en/8/83/Oracular_Spectacular_2008.jpg
 Background: "Oracular Spectacular" catapulted MGMT into the limelight. "Electric Feel" showcases their psychedelic-infused indie pop sound, marked by infectious melodies and experimental production.
 Lyrics: The song's enigmatic lyrics evoke a sense of whimsy, describing an otherworldly connection. Lines like "Shock me like an electric eel" and "All along the eastern shore, put your circuits in the sea" add to its surreal charm.
 Music: The blend of shimmering synths, groovy basslines, and smooth vocals creates an irresistible groove. "Electric Feel" is a sonic journey that keeps listeners dancing.
-Spotify ID: 0uq5PttqEjj3IH1bzwcrXF
-Youtube ID: MmZexg8sxyk&ab_channel=MGMTVEVO
+Spotify ID:3FtYbEfBqAlGO46NUDQSAt
+Youtube ID:MmZexg8sxyk
 Badge Color: bg-info text-dark
 
 Date: 8/13/2023
