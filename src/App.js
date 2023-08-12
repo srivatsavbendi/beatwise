@@ -35,7 +35,7 @@ function App() {
     color: darkMode ? 'black' : 'white' ,
   };
   const shadows = {
-    backgroundColor: darkMode ? 'white' : '#343a40' ,
+    backgroundColor: darkMode ? 'white' : '#212529' ,
     color: darkMode ? 'black' :  'white',
   };
   const paragraph = {
