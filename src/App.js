@@ -181,7 +181,7 @@ function App() {
       </div>
       <Row className="justify-content-center mt-5">
         <Col xs={10} md={8} lg={6} className="col-12">
-          <Card className="border-0 rounded-3 shadow">
+          <Card className="border-0 rounded-3">
             <Card.Body className="px-4 py-1 mt-3">
               <div className="row">
                 <h3 className="col-6 mt-3 mb-2 ">Today's Beat</h3>
