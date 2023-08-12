@@ -184,7 +184,7 @@ function App() {
           <Card className="border-0 rounded-3" style={styles}>
             <Card.Body className="px-4 py-1 mt-3">
               <div className="row">
-                <h3 className="col-6 mt-3 mb-2">Today's Beat</h3>
+                <h3 className="col-9 mt-3 mb-2">Today's Beat</h3>
                 {/* <button className={`col-3 h6 rounded-2 border-0 mt-3 mb-2 mx-1 justify-content-center ${badgeColor}`}>Day {streakCounter}</button> */}
                 <button className="col-2 rounded-2 border-0 mt-3 mb-2 mx-1 pt-1 justify-content-center" style={{backgroundColor: "#000000"}} onClick={toggleDarkMode}><i className="material-icons" style={{ fontSize: '24px', color: 'white' }}>dark_mode</i></button>
               </div>
