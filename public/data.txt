@@ -305,7 +305,7 @@ Lyrics: The song's enigmatic lyrics evoke a sense of whimsy, describing an other
 Music: The blend of shimmering synths, groovy basslines, and smooth vocals creates an irresistible groove. "Electric Feel" is a sonic journey that keeps listeners dancing.
 Spotify ID:3FtYbEfBqAlGO46NUDQSAt
 Youtube ID:MmZexg8sxyk
-Badge Color: bg-info text-dark
+Badge Color: bg-info
 
 Date: 8/13/2023
 Song Name: A Day in the Life
