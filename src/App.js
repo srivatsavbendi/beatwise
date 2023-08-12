@@ -196,7 +196,7 @@ function App() {
                     <img className="rounded-2 p-0 col-8 mt-2 mb-3" src={url}></img>
                   </div>
                   <h6>
-                    <span><Badge className={`mx-1 my-1 p-2 ${badgeColor}`}>{year}</Badge><Badge className={`mx-1 my-1 p-2 ${badgeColor}`}>{album}</Badge><Badge className={`mx-1 my-1 p-2 ${badgeColor}`}>{genre}</Badge></span>
+                    <span><Badge className={`mx-1 my-1 p-2 ${badgeColor}`} style={paragraph}>{year}</Badge><Badge className={`mx-1 my-1 p-2 ${badgeColor}`} style={paragraph}>{album}</Badge><Badge className={`mx-1 my-1 p-2 ${badgeColor}`} style={paragraph}>{genre}</Badge></span>
                   </h6>
                 </Card.Body>
               </Card>
