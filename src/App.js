@@ -24,7 +24,7 @@ function App() {
   const [spotifyID, setSpotify] = useState(''); 
   const [youtubeID, setYoutube] = useState(''); 
 
-  const [darkMode, setDarkMode] = useState(false);
+  const [darkMode, setDarkMode] = useState(true);
 
   function toggleDarkMode() {
     setDarkMode(!darkMode);
