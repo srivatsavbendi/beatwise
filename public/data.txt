@@ -289,8 +289,8 @@ Album Art URL: https://upload.wikimedia.org/wikipedia/en/e/e4/Jeff_Buckley_grace
 Background: "Grace" marked Jeff Buckley's entrance onto the music scene. The album's iconic status owes much to "Hallelujah," a poignant Leonard Cohen cover. The album's fusion of folk, rock, and soul influences set a new standard.
 Lyrics: Buckley's soulful rendition captures the song's spiritual essence, exploring themes of longing, redemption, and vulnerability. The chorus's cry of "Hallelujah" encapsulates a complex mix of emotions.
 Music: Buckley's emotive voice, accompanied by delicate acoustic guitar work, creates an intimate atmosphere. The song's gradual crescendo and emotional intensity leave a lasting impact.
-Spotify ID: 3pRaLNL3b8x5uBOcsgvdqM
-Youtube ID: 5gQDP6pER20
+Spotify ID:3pRaLNL3b8x5uBOcsgvdqM
+Youtube ID:5gQDP6pER20
 Badge Color: bg-secondary text-light
 
 Date: 8/12/2023
