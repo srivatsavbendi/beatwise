@@ -305,7 +305,7 @@ Lyrics: The song's enigmatic lyrics evoke a sense of whimsy, describing an other
 Music: The blend of shimmering synths, groovy basslines, and smooth vocals creates an irresistible groove. "Electric Feel" is a sonic journey that keeps listeners dancing.
 Spotify ID:3FtYbEfBqAlGO46NUDQSAt
 Youtube ID:MmZexg8sxyk
-Badge Color: bg-info
+Badge Color: bg-info text-light
 
 Date: 8/13/2023
 Song Name: A Day in the Life
@@ -317,9 +317,9 @@ Album Art URL: https://upload.wikimedia.org/wikipedia/en/5/50/Sgt._Pepper%27s_Lo
 Background: "A Day in the Life" is a masterpiece from The Beatles' iconic album. It marked a shift in their sound and a profound evolution in the music world. The album's blend of psychedelic and experimental elements pushed boundaries.
 Lyrics: The song narrates a day's events with a blend of John Lennon's introspective verses and Paul McCartney's observational style, culminating in the evocative crescendo of "I'd love to turn you on."
 Music: The song's orchestral arrangement, merging with rock instrumentation, captures the highs and lows of life. Its avant-garde crescendo and closing piano chord are unforgettable.
-Spotify ID: 0A8z6m4GUZfBR2dUEK5Wan
-Youtube ID: usNsCeOV4GM&ab_channel=thebeatles
-Badge Color: bg-warning text-dark
+Spotify ID:0hKRSZhUGEhKU6aNSPBACZ
+Youtube ID:YSGHER4BWME
+Badge Color: bg-warning text-light
 
 Date: 8/14/2023
 Song Name: Jóga
