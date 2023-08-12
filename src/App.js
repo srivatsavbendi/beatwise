@@ -188,7 +188,7 @@ function App() {
                 <button className="col-3 h6 rounded-2 border-0 mt-3 mb-2 mx-1 justify-content-center bg-dark"> </button>
                 <button className="col-2 rounded-2 border-0 mt-3 mb-2 mx-1 pt-1 justify-content-center" style={{backgroundColor: "#000000"}} onClick={toggleDarkMode}><i className="material-icons" style={{ fontSize: '24px', color: 'white' }}>dark_mode</i></button>
               </div>
-              <Card className="border-0 rounded-3 mb-3 shadow" style={shadows}>
+              <Card className="border-0 rounded-3 mb-3 shadow" style={styles}>
                 <Card.Body className="py-3 pt-4">
                   <h5 className="">{songName}</h5>
                   <h6 style={paragraph}>{artist}</h6>
@@ -200,25 +200,25 @@ function App() {
                   </h6>
                 </Card.Body>
               </Card>
-              <Card className="border-0 rounded-3 shadow mb-3" style={shadows}>
+              <Card className="border-0 rounded-3 shadow mb-3" style={styles}>
                 <Card.Body className="py-3">
                   <h5 className="">Background</h5>
                   <p style={paragraph}>{background}</p>
                 </Card.Body>
               </Card>
-              <Card className="border-0 rounded-3 shadow mb-3" style={shadows}>
+              <Card className="border-0 rounded-3 shadow mb-3" style={styles}>
                 <Card.Body className="py-3">
                   <h5 className="">Lyrics</h5>
                   <p style={paragraph}>{lyrics}</p>
                 </Card.Body>
               </Card>
-              <Card className="border-0 rounded-3 shadow mb-3" style={shadows}>
+              <Card className="border-0 rounded-3 shadow mb-3" style={styles}>
                 <Card.Body className="py-3">
                   <h5 className="">Music</h5>
                   <p style={paragraph}>{music}</p>
                 </Card.Body>
               </Card>
-              <Card className="border-0 rounded-3 shadow mb-3" style={shadows}>
+              <Card className="border-0 rounded-3 shadow mb-3" style={styles}>
                 <Card.Body className="py-4 row justify-content-center">
                   <h5 className="mb-0">Listen</h5>
                   <p style={paragraph} className="mt-0">On Your Favorite Platform</p>
