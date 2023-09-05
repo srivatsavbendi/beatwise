@@ -1,4 +1,4 @@
-Date: 9/5/23
+Date: 9/5/2023
 Song Name: Kiss
 Artist: Prince
 Year: 1986
@@ -12,7 +12,7 @@ Spotify ID:62LJFaYihsdVrrkgUOJC05
 Youtube ID:rH9CZuuKpSg&ab_channel=Prince-Topic
 Badge Color: bg-secondary text-light
 
-Date: 9/6/23
+Date: 9/6/2023
 Song Name: Dreams
 Artist: Fleetwood Mac
 Year: 1977
@@ -26,7 +26,7 @@ Spotify ID:0ofHAoxe9vBkTCp2UQIavz
 Youtube ID:5oWyMakvQew&ab_channel=FleetwoodMac-Topic
 Badge Color: bg-secondary text-light
 
-Date: 9/7/23
+Date: 9/7/2023
 Song Name: Like a Rolling Stone
 Artist: Bob Dylan
 Year: 1965
