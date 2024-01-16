@@ -1,4 +1,4 @@
-Date: 11/7/2023
+Date: 1/16/2023
 Song Name: Kiss
 Artist: Prince
 Year: 1986
@@ -12,7 +12,7 @@ Spotify ID:62LJFaYihsdVrrkgUOJC05
 Youtube ID:rH9CZuuKpSg&ab_channel=Prince-Topic
 Badge Color: bg-secondary text-light
 
-Date: 11/8/2023
+Date: 1/17/2023
 Song Name: Dreams
 Artist: Fleetwood Mac
 Year: 1977
@@ -26,7 +26,7 @@ Spotify ID:0ofHAoxe9vBkTCp2UQIavz
 Youtube ID:5oWyMakvQew&ab_channel=FleetwoodMac-Topic
 Badge Color: bg-secondary text-light
 
-Date: 11/9/2023
+Date: 1/18/2023
 Song Name: Like a Rolling Stone
 Artist: Bob Dylan
 Year: 1965
@@ -40,7 +40,7 @@ Spotify ID:3AhXZa8sUQht0UEdBJgpGc
 Youtube ID:IwOfCgkyEj0&ab_channel=BobDylanVEVO
 Badge Color: bg-secondary text-light
 
-Date: 11/10/2023
+Date: 1/19/2023
 Song Name: Love Is a Losing Game
 Artist: Amy Winehouse
 Year: 2006
@@ -54,7 +54,7 @@ Spotify ID:570ZDO2Lmh6NQChOU5xPUL
 Youtube ID:_TWnTrC8fWs
 Badge Color: bg-secondary text-light
 
-Date: 11/11/2023
+Date: 1/20/2023
 Song Name: Vienna
 Artist: Ultravox
 Year: 1981
@@ -68,7 +68,7 @@ Spotify ID:2LXjhNee4iPRVemx9NSZQ3
 Youtube ID:EoVBjYpxhF0&ab_channel=Ultravox-Topic
 Badge Color: bg-secondary text-light
 
-Date: 11/12/2023
+Date: 1/21/2023
 Song Name: Motion Sickness
 Artist: Phoebe Bridgers
 Year: 2017
@@ -82,7 +82,7 @@ Spotify ID:25Syi9wnfn6ZGAmiOBypPq
 Youtube ID:iMr69JihnP4&ab_channel=PhoebeBridgers-Topic
 Badge Color: bg-danger text-light
 
-Date: 11/13/2023
+Date: 1/22/2023
 Song Name: Self Control
 Artist: Laura Branigan
 Year: 1984
@@ -96,7 +96,7 @@ Spotify ID:6JNJERZGJwDVgkmbohBw7u
 Youtube ID:Ucmo6hDZRSY&ab_channel=LauraBranigan-Topic
 Badge Color: bg-danger text-light
 
-Date: 11/14/2023
+Date: 1/23/2023
 Song Name: Human
 Artist: Rag'n'Bone Man
 Year: 2016
@@ -110,7 +110,7 @@ Spotify ID:58zsLZPvfflaiIbNWoA22O
 Youtube ID:L3wKzyIN1yk&list=OLAK5uy_lI4RpX7VNAjLbz4VLBqzh6CjisBSLu1vU&ab_channel=RagnBoneManVEVO
 Badge Color: bg-success text-light
 
-Date: 11/15/2023
+Date: 1/24/2023
 Song Name: Purple Haze
 Artist: Jimi Hendrix
 Year: 1967
@@ -124,7 +124,7 @@ Spotify ID:0wJoRiX5K5BxlqZTolB2LD
 Youtube ID:WGoDaYjdfSg&ab_channel=JimiHendrixVEVO
 Badge Color: bg-warning text-dark
 
-Date: 11/16/2023
+Date: 1/25/2023
 Song Name: Somewhere Only We Know
 Artist: Keane
 Year: 2004
@@ -138,7 +138,7 @@ Spotify ID:0ll8uFnc0nANY35E0Lfxvg
 Youtube ID:9SIuOq7mNKQ&ab_channel=Keane-Topic
 Badge Color: bg-success text-light
 
-Date: 11/17/2023
+Date: 1/26/2023
 Song Name: "Nuclear"
 Artist: Destiny's Child
 Year: 2013
@@ -152,7 +152,7 @@ Spotify ID:1kO615U99ZkJP2RSK9zR8x
 Youtube ID:iPeRZk2MhPE&ab_channel=DestinysChildVEVO
 Badge Color: bg-warning text-dark
 
-Date: 11/18/2023
+Date: 1/27/2023
 Song Name: "Lose Control"
 Artist: Missy Elliott
 Year: 2005
@@ -166,7 +166,7 @@ Spotify ID:0UaMYEvWZi0ZqiDOoHU3YI
 Youtube ID:aOt4xRE05wQ&ab_channel=MissyElliott-Topic
 Badge Color: bg-danger text-light
 
-Date: 11/19/2023
+Date: 1/28/2023
 Song Name: "The Wire"
 Artist: Haim
 Year: 2013
@@ -180,7 +180,7 @@ Spotify ID:6golelYKuy85o3u0cxIxFK
 Youtube ID:1Vh0iP5BziQ&ab_channel=HAIM
 Badge Color: bg-white text-dark
 
-Date: 11/20/2023
+Date: 1/29/2023
 Song Name: Breezeblocks
 Artist: Alt-J
 Year: 2012
@@ -194,7 +194,7 @@ Spotify ID: 1C2h7mLntPSeVYciMRTF6v
 Youtube ID: 1_PTB4xeDOc&ab_channel=alt-J
 Badge Color: bg-success text-light
 
-Date: 11/21/2023
+Date: 1/30/2023
 Song Name: Hallelujah
 Artist: Jeff Buckley
 Year: 1994
@@ -208,7 +208,7 @@ Spotify ID: 6FiUr7KpP7Ss4eAT2dCVsM
 Youtube ID: y8AWFf7EAc4&ab_channel=JeffBuckleyVEVO
 Badge Color: bg-secondary text-light
 
-Date: 11/22/2023
+Date: 1/31/2023
 Song Name: Electric Feel
 Artist: MGMT
 Year: 2007
@@ -222,7 +222,7 @@ Spotify ID: 0uq5PttqEjj3IH1bzwcrXF
 Youtube ID: MmZexg8sxyk&ab_channel=MGMTVEVO
 Badge Color: bg-info text-dark
 
-Date: 11/23/2023
+Date: 2/1/2023
 Song Name: A Day in the Life
 Artist: The Beatles
 Year: 1967
@@ -236,7 +236,7 @@ Spotify ID: 0A8z6m4GUZfBR2dUEK5Wan
 Youtube ID: usNsCeOV4GM&ab_channel=thebeatles
 Badge Color: bg-warning text-dark
 
-Date: 11/24/2023
+Date: 2/2/2023
 Song Name: Jóga
 Artist: Björk
 Year: 1997
