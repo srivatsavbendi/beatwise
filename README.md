@@ -2,7 +2,7 @@
 
 Beatwise is an AI-generated daily music recommendation tool with insights and trivia. It employs OpenAI and Spotify APIs to automate the generation of daily content.
 
-[Visit Beatwise](https://beatwise.co/)
+[Visit Beatwise](https://beatwise.netlify.app/)
 
 ### Key Skills and Tools
 * OpenAI API
